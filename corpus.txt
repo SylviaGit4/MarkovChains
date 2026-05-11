@@ -124,7 +124,7 @@ Below is a small number of notable UMT’s, however it is not a comprehensive li
 
 AKE-01 - The personal elite team under the Archangel Council. They serve as the right hand of the council, executing their orders without question. 
 AKE-02 - A dedicated team taking orders from the Overseer Council. Primarily acts as a personal protection detail for the high-level administration.
-ZETA-01 - A lawful, elite team on-par with ÅKE-01, answering only to the Ethical Practices Assembly.
+ZETA-01 - A lawful, elite team on-par with AKE-01, answering only to the Ethical Practices Assembly.
 RISTO-01 - The Recordkeeping & Infosec Division’s secretive tactical team. Purely dedicated to recovering, redacting and, most importantly, removing information.
 GEIR-02 - A highly specialized response team responding to situations of extreme or anomalous threats. They utilize experimental exoskeletons and mounted weapon stabilizers in conjunction with medium machine guns and high-caliber ‘battle rifles’ often chambered in calibers such as 7.62x51mm, .338 Lapua Magnum and 12.7x55mm.
 GEIR-03 - Filling a unique role as a group of deep-cover cells embedded within notable groups of interest (Such as the EDB & the AASA) and important organisations to feed information back, primarily to the Information & Intelligence Division.

@@ -19,17 +19,21 @@ def tokenise_file():
 
 words = tokenise_file()
 
-transitions = {}
+def create_matrix(words):
+    transitions = {}
 
-# stop at len -1 (last word has no successor)
-for i in range(len(words) -1):
-    current_word = words[i]
-    next_word = words[i+1]
+    # stop at len -1 (last word has no successor)
+    for i in range(len(words) -1):
+        current_word = words[i]
+        next_word = words[i+1]
 
-    # Check if key exists prior to appending.
-    if current_word not in transitions:
-        transitions[current_word] = []
+        # Check if key exists prior to appending.
+        if current_word not in transitions:
+            transitions[current_word] = []
 
-    transitions[current_word].append(next_word)
+        transitions[current_word].append(next_word)
 
-print(transitions)
+    return transitions
+
+transition_matrix = create_matrix(words)
+print(transition_matrix)

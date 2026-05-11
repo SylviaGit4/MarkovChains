@@ -1,135 +1,374 @@
-﻿SERAPHIM INDUSTRIES
-OPERATIONAL OVERVIEW
+﻿the
+nuclear ship
+SAVANNAH
+first atomic merchant ship
 
+one of the world’s
+SAFEST
+ships
 
+U.S. DEPARTMENT OF COMMERCE
+Frederick H. Mueller, Secretary
 
+MARITIME ADMINISTRATION
+Ralph E. Wilson, Chairman, Federal Maritime Board
+and Maritime Administrator
 
-APPROVED FOR VIEWING BY PERSONNEL WITH LL02 [RESTRICT] CLEARANCE OR HIGHER
-        
+ATOMIC ENERGY COMMISSION
+John A. McCone, Chairman
 
+4
 
-INTRODUCTION
-This document outlines the operations, organisation & structure of Seraphim Industries, and as such should not be viewed by or provided to those without the correct security clearance. Doing as such will result in immediate termination of all parties, without hearing from the Ethical Practices Assembly or Personnel Resources Department.
+Multiple advanced electronic and mechanical safety devices guard this “atomic heart.”
 
+CONTROL ROD DRIVE MOTORS
+HYDRAULIC SCRAM CYLINDERS
+DRIVE LINE LEAD SCREW SECTION
+BUFFER SEAL ENCLOSURE
+BORON STEEL CONTROL RODS
+PRESSURE VESSEL
+OUTLET NOZZLE
+REACTOR CORE
+THERMAL SHIELD
+FUEL ELEMENTS
+FLOW BAFFLE
+SUPPORT RING
+INLET NOZZLE
+PRESSURIZED WATER REACTOR
+5
+The N.S. SAVANNAH, the first nuclear-powered cargo-passenger ship, is one of the safest seagoing craft in the world.
 
+This is the result of careful and deliberate planning.
 
+Every appropriate safety device, factor, and technique were sought in the design and planning stage, and the ship’s construction has probably been more closely and intensively inspected, tested, and scrutinized than that of any other merchant ship ever built.
 
-The Seraphim Industries Corporation, often known as Seraphim Industries or just Seraphim,
-is a large arms development firm under the Borealis Services AG[1].
-Seraphim Industries primarily researches, develops and manufactures experimental weapons & technologies for in-house use and for use within the other companies under Borealis Services AG. Alongside R&D, Seraphim Industries also acts as a high-level security force for itself & the components of its parent company.
+SAFETY POLICY BASIC
+The Declaration of Policy of the Merchant Marine Act of 1936 calls upon the Maritime Administration for the promotion and maintenance of an American Merchant Marine for trade and defense “composed of the best equipped, safest, and most suitable types of vessels.”
 
+The Atomic Energy Commission is engaged in the N.S. SAVANNAH project as a part of its responsibility under the Atomic Energy Act of 1954 “to encourage widespread participation in the development and utilization of atomic energy for peaceful purposes to the maximum extent consistent with the common defense and security and with the health and safety of the public.” The Commission has the responsibility of providing a safely operable nuclear power plant for the vessel; instructions and regulations for the disposition of wastes; the use, handling, and disposal of source, special nuclear, and by-product material; and the health and safety aspects associated with these responsibilities.
 
+Ship safety ashore, abroad, on the high seas, and in port is of major interest to the Maritime Administration, the Atomic Energy Commission, the U.S. Coast Guard, the Public Health Service, and such private agencies as the American Bureau of Shipping.
 
+The N.S. SAVANNAH is constructed to meet or surpass every standard set by all of these responsible agencies and will have a substantial built-in safety margin in excess of the most stringent requirements of applicable standards, which are among the highest in the world. Where there were no existing standards every precaution in keeping with sound judgment and 6engineering experience has been applied in the construction and safety considerations of the ship.
 
-Seraphim Industries was initially formed in 1962 during the merger forming Borealis
-Services AG, where the 'Tailiekki Advanced Development Program' (aka 'Fox Works') and Borealis XI Contracting Co's 'XII Brigade', which respectively acted as the secretive R&D for Taileikki's black projects, and the clandestine paramilitary 'ghost unit' for Borealis were dissolved & transferred from their parent companies, to be formed into Seraphim Industries as it is known today.
+The N.S. Savannah Is a Safe Ship
 
+The reputation of American industry and the integrity of the Government of the United States stand behind this statement.
 
+Following is a detailed listing of the factors that make the N.S. SAVANNAH so safe:
 
+SAFETY FACTORS
+As the world’s first commercial, nonstationary type of nuclear power plant, the SAVANNAH’s design and construction have resulted in a vessel with an unprecedented degree of safety. Basically, the safety considerations concern two separate but closely inter-related factors:
 
-[1] Borealis Services AG is the parent corporation of Seraphim Industries, formed from the merger of Finnish aerospace company Tailiekki Oy and Swiss-American PMC Borealis XI Contracting Co, occurring in 1962. Both companies still exist, though operate independently as divisions of Borealis Services AG.
+(1) The hull and interior structure surpass the highest standards of safety, both in the conventional marine sense and in the light of the additional factors created by the installation of a nuclear propulsion plant; and
 
+(2) The nuclear propulsion system creates no more hazard to the crew and passengers, and other ships in a busy port, than any modern conventional steam propulsion system—actually, in the light of safety factors, included because of its prototype nature, the N.S. SAVANNAH is as safe as, and in some respects safer than, a steam-powered vessel that burns coal or oil.
 
+The basic difference in safety between a nuclear-powered ship and a conventionally powered ship involves radioactivity which results from the fission process. Provision has been made to control this radioactivity on the SAVANNAH under all foreseeable conditions. This control is accomplished through the following design and operational features:
 
+HULL AND INTERIOR STRUCTURE
+In general, the following safety requirements were used by the SAVANNAH’s architects, George G. Sharp, Inc., in the design of the ship:
 
+(1) The ship is as safe as, or safer than, any other vessel of its class with regard to the usual “hazards of the sea”; and
 
+7
+(2) In no credible accident can there be any hazardous release of radioactivity to the surroundings.
 
+The SAVANNAH is designed to a two-compartment standard of subdivision (i.e., the ship will remain afloat with two main compartments totally flooded) at a draft of 29 feet, 6 inches. The ship complies with all the applicable laws of the United States and requirements of the regulatory bodies and rules in force as to standards of safety.
 
+Structurally, the SAVANNAH differs from conventional passenger-cargo ships only in that the reactor and containment foundations are comparatively much heavier than the foundations for normal ship’s machinery. The heavy longitudinal members are carried well beyond the reactor space bulkheads to tie with a smooth transition into the double-bottom structure.
 
-        ORGANISATIONAL LEVELS
-Resulting from the sensitivity of many aspects of operations within Seraphim Industries, there is a clear hierarchy of Security Clearances and Personnel Classifications within the corporation. These levels of clearances are granted based on the proximity to & sensitivity of the information or tasks they may be assigned to. 
-Despite this, just having a given clearance level does not automatically grant access to all information at that level: Personnel are usually only granted access to such information on a “need-to-know” basis.
+Stability equivalent to that of a conventional passenger-cargo ship with fuel oil tanks full has been obtained in the SAVANNAH. In addition, because there is no fuel oil to be consumed in passage, there is less variation in the stability of the ship during the course of a long voyage.
 
+VITAL COMPONENTS DUPLICATED
+From the standpoint of ship safety, assurance of sufficient power to maintain steerage and maneuverability is the principal requirement of the propulsion plant. To this end, duplication of machinery and power sources on the SAVANNAH has been carried to the fullest practicable degree. An electric “take-home” motor is installed for emergency operation. Developing 750 hp (nominal), it is coupled to one of the high-speed pinions in the reduction gear. A quick-connect coupling permits engagement in less than 2 minutes. In addition, a temporary supplementary startup steam plant is installed in No. 7 hold. This plant is capable of developing 2,000 shp ahead and about 1,750 shp astern, using the main propulsion unit; in emergencies this steam plant may be used in lieu of the take-home motor. Using forced circulation boilers, it can, like the take-home motor, be brought on the line in about 2 minutes. In case of a reactor plant failure, the stored heat in the reactor system will be available during the interim period, so 8that at no time will the SAVANNAH be without power to the shaft.
 
+From the standpoint of conventional ship operation, the SAVANNAH is designed and constructed to the highest degree of operational safety.
 
+Reactor safety is ensured by the heavy steel containment shell surrounding the reactor system. This shell is designed to withstand the pressure surge from the hypothetical example, “maximum credible accident,” used in nuclear reactor analysis. Thus, any internal accident will be contained within the reactor containment shell and no hazardous amount of radioactivity can escape to the environment.
 
-Security Clearance Levels
-ACCESS [LL00] - The basic security clearance granted. Extremely limited access, required to enter a site. Granted to visitors & non-essential staff.
-VEIL [LL01] - The lowest level of actual security clearance. Granted to entry-level staff & temporary personnel assigned from the parent company.
-RESTRICT [LL02] - Granted to most junior researchers & internal security, this level provides access to a number of older or less sensitive operations.
-AUTHORIZE [LL03] - The security clearance granted to a majority of staff within Seraphim Industries. Provides sufficient access to view current operations. 
-GATEWAY [LL04] - A high level security clearance, granted primarily to site administrators and senior personnel.
-ASCEND [LL05] - The highest level of clearance in practice. Restricted to top-level archivists & administration staff.
-ANGEL [LLOM] - Functionally similar to LL05, however restricted to the Archangel Council, Ethical Practices Assembly and the Recordkeeping & Infosec Division, and personnel directly assigned to them. Only granted with approval from RIsD’s three administrators.
+Protection of the containment complex from ship accidents was studied in detail in establishing the SAVANNAH’s design criteria. In particular, ship collisions were carefully reviewed and methods developed to predict structural damage to vessels struck in collision as a function of speed and displacement of the vessels involved. On the basis of the data obtained from these studies, the SAVANNAH is designed and constructed to withstand, without damage to the nuclear reactor compartment, any collision with any of the ships making up 99 percent of the world’s merchant fleet.
 
+COLLISION POSSIBILITY LOW
+The probability of collision with a ship of this remaining 1 percent group is extremely low. Considering that the SAVANNAH, as the first nuclear-powered merchant ship, will be handled with extreme care, the probability of a dangerous release of radioactivity through collision is negligible. Because large ships proceed at relatively low speeds in harbors, and because of the built-in invulnerability of the SAVANNAH, the probability of a collision of sufficient severity to damage the reactor compartment is extremely low.
 
+Surrounding the reactor compartment are heavier-than-normal structural members. The inner-bottom, below the reactor space, is “egg crated” with transverse floors at every frame; and a deep vertical keel with more than the usual number of keelsons in the fore and aft direction add to this strengthening. Outboard of the reactor compartment are two heavy longitudinal 9collision bulkheads; outboard of these bulkheads there is heavier-than-normal plating continuously welded to the beams. Inboard of the collision bulkheads are collision mats made up of alternate layers of 1-inch steel and 3-inch redwood planks for a total thickness of 24 inches.
 
+In the event of a collision broadside to the reactor compartment, the ramming ship would have to penetrate 17 feet of stiffened ship structure, the collision mat, and the reactor containment vessel, before reaching the reactor plant.
 
-Personnel Classification Levels
-AUXILIARY [PCD] - Low-priority personnel, those not essential to operations or continuity. Zero operational risk if terminated.
-FUNCTIONAL [PCC] - Majority of personnel. They are non-essential for continuity, however operations will be slowed without them.
-CRITICAL [PCB] - High-priority personnel: Individual sites cannot operate without them, they pose a high risk to operations & continuity if unavailable.
-CONTINUUM [PCA] - The highest priority personnel: Those who are required for operations or continuity within Seraphim Industries. They are untouchable.
+SINKING, GROUNDING WEIGHED
+Other accidents, such as grounding, fire and explosion, and sinking also were considered in the design and construction of the N.S. SAVANNAH. Grounding is very similar to collision in its effects, except that the damage is ordinarily more localized. The heavy reactor and containment foundations in the inner-bottom provide adequate protection to the reactor system.
 
+The SAVANNAH, as a passenger ship, is prohibited by Coast Guard regulation from carrying dangerous and explosive cargo in quantity.
 
-PARANORMAL [PCXS] - A unique classification for personnel assigned to the Psionics Division. You do not need to know of this classification if not assigned it.
+The ship’s fire-protection and fire-fighting systems are fully adequate.
 
+In case of sinking, provision has been made to allow for automatic flooding of the containment shell of the reactor to prevent its collapse in deep waters. The flooding valves are designed to close upon pressure equalization so that containment integrity will be maintained even after sinking. Salvage connections have been installed to allow containment purging or filling with concrete in case of sinking in shallow water where recovery or immobilization of the reactor plant seems advisable.
 
+Besides the very latest in navigation and communication equipment, including true motion radar, the ship is equipped with antiroll stabilizers. Located outside the hull amidships, the stabilizers are operated hydraulically by a gyro system capable of sensing sea conditions and providing counter-forces to reduce the roll. Each stabilizing fin has a lift of approximately 70 tons at 20 knots speed.
 
+10
+RADIATION SHIELDING
+One of the most important features of the SAVANNAH is her radiation shielding. The main sources of radiation during operation of the SAVANNAH’s power plant are the reactor itself and the primary coolant loop lines. The primary coolant which passes through the reactor core is irradiated, and itself becomes a source of radiation. Both the reactor and the coolant emit neutrons and gamma rays. There are also radiation sources of lesser magnitude including process piping, hold-up tanks, pumps, and demineralizers.
 
+The objective of radiation shielding on the SAVANNAH is twofold: First, it limits the radiation dose outside the containment to prescribed safe levels, and second, it reduces the activation of structure within the containment shell by reactor core neutrons. The latter consideration is necessary in order that the reactor plant be accessible for maintenance within 30 minutes after shutdown.
 
+The shielding is divided into a primary shield, which surrounds the reactor itself, and a secondary shield, which surrounds the entire containment shell.
 
+PRIMARY SHIELDING
+The primary shield, immediately surrounding the reactor pressure vessel, consists of a 17-foot-high lead-covered steel tank that surrounds the reactor vessel with a 33-inch water-filled annulus. The tank extends from a point well below the active core area to a point well above it. The active core height within the reactor is only 60 inches. Constructed of carbon steel, the primary shield tank is covered with a layer of lead varying in thickness from 2 to 4 inches. When the tank is filled with water, the dose rate outside the primary shielding from core gamma sources and activated nuclei will not exceed 200 mr per hour 30 minutes after shutdown. This is sufficiently low to permit entry into the containment vessel for inspection or maintenance.
 
+SECONDARY SHIELDING
+The containment shell completely surrounds the primary (reactor) system, and serves not only to confine 11spread of radioactivity in the event of a rupture of the system but to support the hundreds of tons of lead and polyethylene of the secondary shield.
 
-        OPERATIONAL STRUCTURE OVERVIEW
-Due to the inherent diversity of the corporation, Seraphim Industries is divided into a number of departments based on the tasks required. Some departments and their purposes may be redacted for operational security.
+CONTAINMENT SHELL
+The primary function of the containment shell is to surround the primary system and provide complete containment of any radioactive matter that might escape from the system. The design pressure of the vessel was determined by postulating the instantaneous release and expansion of the entire contents of the primary system. This approach is highly conservative because of the improbability of a large rupture.
 
+A study has been made concerning the penetration of the vessel wall by a piece of debris in an explosion. An analysis of the penetrating power of high-speed components indicated that the shell would contain the largest missile that could be expected.
 
+The shell is cylindrical in shape, 35 feet in diameter by 50.5 feet long, and is centrally located on the ship’s bottom.
 
+The containment shell is sealed at all times during plant operation. Entry to the shell will be made only after the reactor has been shut down, the shell purged with air, and the radiation level has dropped below 200 mr per hour.
 
-Administration
-Archangel Council [ARC] - The secretive council of the company's founders, making all high-level decisions. Not much is known about these enigmatic seven.
-Ethical Practices Assembly [EPA] - A committee outside of the command of the Archangel Council. Outlines rules & regulations for ethical & moral practices.
-Overseer Council [OC] - A council made up of the high-level administration of each individual site, working to coordinate between them.
-Personnel Resources Department [PRD] - The ‘HR’ of the company, assigning personnel to departments & handling internal disputes.
-Internal Communications Department [ICD] - Handles the communication between departments & sites, often working directly with the Recordkeeping & Infosec Division.
-Recordkeeping & Infosec Division [RIsD] - The archivists & bookburners. All information goes through them to be recorded, redacted or destroyed.
-________________
+The bottom half of the shell rests in a cradle of steel surrounded by a 48-inch-thick wall of reinforced concrete.
 
+The top half of the containment shell is covered by a 6-inch layer of lead plus a 6-inch layer of polyethylene. During normal power operation, this reduces the radiation level to less than 0.6 mr per hour at the nearest point of access by the crew.
 
+CONTAINMENT SHELL AIR CONDITIONING
+This system maintains a constant maximum ambient temperature of 140° F. and a maximum relative humidity of 72 percent inside the containment shell. The system operates in conjunction with the intermediate cooling water system, using 95° F. water.
 
+During normal operation, the containment shell is sealed and no outside air will enter or leave the vessel. 12Ambient conditions will be maintained by regulating the cooling water flow as required according to instrument readings on the control panel.
 
-Operational
-Security Department [SD] - The internal security, handling the protection of sites.
-Cyber Operations [CO] - Handling tasks surrounding technology, working with ICD and RIsD.
-Unique Modular Teams [UMT] - A collection of tactical teams, each with unique missions.
-Aerospace R&D [AeRD] - The R&D department regarding aerospace research.
-Electromechanics R&D [EmRD] - The R&D department regarding electromechanics research.
-Weapons R&D [WRD] - The R&D department regarding weapons research.
-Logistics Division [LD] - Responsible for the transport of all resources. Contains their own separate security team.
-Department of Manufacturing [DM] - Handles the manufacturing of all products.
-Information & Intelligence Division [IID] - Dedicated to intelligence & espionage.
-Psionics Division [PD] - The Psionics Division is dedicated to the handling and research related to the paranormal, anomalous and supernatural. 
-________________
+In all areas where crew members have unlimited access, radiation levels will be less than 5 rem integrated dosage per year, the recommended maximum annual exposure of workers in the atomic energy field. Assuming that passengers would move about the ship, and on the basis of their calculated average distance from the reactor, the average exposure of a passenger remaining aboard for a year would be under 0.5 rem, i.e. ¹/₂₀ of the occupational value.
 
+The 5 rem area is relatively small and not in general use. No crew member will be aboard ship or in the 5 rem area continuously for a full year, and it is doubtful that any crew member will actually receive an integrated dose of more than 0.5 rem in a year.
 
+ELECTRICAL SYSTEM
+This system supplies power to the reactor system and its auxiliaries and is designed to operate with a high degree of reliability to assure reactor safety during all phases of operation and shutdown.
 
+It includes all load control and protective devices, containment wiring, metering, interlocking and alarms associated with electrical loads for the reactor system. Power for the system normally is supplied by two turbine-generators, each rated at 1,500 kw, 0.8 pf, 450-volts, 3 phase and 60 cycles. For increased reliability, a double bus type arrangement is used. In the event of a bus fault, an automatic transfer of all vital loads to the other bus will occur. During normal operation, a circuit breaker ties the two busses together.
 
-Auxillary
-Emergency Incident Response Department [EIRD] - Emergency response teams ranging from EMTs to firefighters to HAZMAT teams, who handle emergencies within sites.
-Medical Department [MD] - Teams of highly trained medical workers responsible for the treatment of personnel. Oversees site medical facilities.
-Department of External Affairs [DEA] - Responsible for external communication, legal matters, the hiring of personnel and interactions with civilians .
-Engineering & Maintenance Department [EMD] - Responsible for the upkeep & construction of sites.
-Other than these overarching departments, there are of course smaller and more specialized teams to fulfill specific roles and operational areas. Most of these smaller departments & teams are detailed elsewhere in the OPERATIONS STRUCTURE document, however more notable ones are listed briefly below.
+RADIATION MONITORING
+The radiation monitoring system of the SAVANNAH keeps a constant check on the intensity of radiation at various points within the reactor system as well as areas remote from the power plant. This system is divided into two areas for this description. They are power-plant monitoring and health physics monitoring. The latter is covered under its own heading.
 
+13
+POWER-PLANT MONITORING
+Through keeping track of the radiation level at various points in the reactor system, any abnormalities in operation can be quickly detected and corrected.
 
+A leak in the heat exchangers, for example, would show up on a radiation monitor located in the blowdown line from each of the heat exchangers.
 
+The intermediate cooling system, which includes cooling water from the primary pumps, shield water cooler, containment air cooler, and other components not directly in the primary loop, is monitored at five locations. Leakage of primary loop water into the secondary water is possible only from the pumps and letdown coolers, because of differences in pressure. Consequently, radiation monitors are located downstream from the letdown coolers and in each of the return lines from the pump cooling coils.
 
-Unique Modular Teams
-Seraphim Industries dedicated tactical teams, divided by purpose though often exchanging personnel or creating temporarily merged ‘task forces’ based on operational requirements.
-Below is a small number of notable UMT’s, however it is not a comprehensive list.
+The demineralizers are also monitored. When the resin bed is functioning, the flow downstream (effluent) will have negligible radioactivity. Consequently, a monitor signal at this point will indicate when to switch to a new demineralizer. The monitor in the influent (water entering the demineralizer) measures the activity level in the primary loop.
 
+The fission product monitor keeps track of fission product activity in the primary (reactor) system. The monitor consists of a cation and anion column, an amplifier, and an indicating system. This monitor is located in the primary coolant flow system.
 
+TANKS HOLD LIQUID WASTE
+Power plant liquid wastes are collected in tanks for storage prior to discharge into a specially designed servicing vessel in port. The liquid waste collection tanks are monitored. Gaseous wastes will normally be disposed of at sea through the radio mast, which contains two detectors for monitoring purposes. They are an air-particle monitor and a radio-gas monitor, and operate at all times so that gas is vented to the atmosphere. If gaseous radioactivity should rise above specified limits, the gas will be diluted to below the limit before being discharged to atmosphere.
 
+The above monitor stations are the principal ones involved in reactor system operation. The monitors operate through a system of separate channels, with each channel responsible for a pre-selected range of activity. All detectors relay their readings to the main panel in the control room, where automatic recording and visual observation instruments are located.
 
-AKE-01 - The personal elite team under the Archangel Council. They serve as the right hand of the council, executing their orders without question. 
-AKE-02 - A dedicated team taking orders from the Overseer Council. Primarily acts as a personal protection detail for the high-level administration.
-ZETA-01 - A lawful, elite team on-par with AKE-01, answering only to the Ethical Practices Assembly.
-RISTO-01 - The Recordkeeping & Infosec Division’s secretive tactical team. Purely dedicated to recovering, redacting and, most importantly, removing information.
-GEIR-02 - A highly specialized response team responding to situations of extreme or anomalous threats. They utilize experimental exoskeletons and mounted weapon stabilizers in conjunction with medium machine guns and high-caliber ‘battle rifles’ often chambered in calibers such as 7.62x51mm, .338 Lapua Magnum and 12.7x55mm.
-GEIR-03 - Filling a unique role as a group of deep-cover cells embedded within notable groups of interest (Such as the EDB & the AASA) and important organisations to feed information back, primarily to the Information & Intelligence Division.
-BRUNHILDE-04 - Trained as paramedics and field-surgeons, the operatives are often distributed to other UMTs to act as TEMS (Tactical Emergency Medical Support) within their ranks. Lightly armed, equipped primarily for providing medical aid during combat.
-BRUNHILDE-07 - Acting akin to military police wherever attached, Brunhilde-07 tends to work closely with the EPA & DEA to serve as an intermediary force between Seraphim Industries and the local population, alongside policing other UMTs.
-VISKI-04 - A more traditional QRF, acting as generic ‘SWAT teams’ for Seraphim Industries, responding with precision to high risk situations within sites that on-site security may not be equipped to handle.
-VISKI-05 - Following more traditional ‘military structure’, Viski-05 operates as a larger mechanized brigade, containing armored vehicles, a mortar platoon & a small squadron of utility helicopters. Spiritual descendents of Borealis’ “XII Brigade”.
-VISKI-06 - Similar to Viski-05, 06 is a multirole air wing primarily made up of fighters & attackers, and a small number of bombers & electronic warfare aircraft.
+14
+
+Surrounded by steel, wood, concrete, the N.S. SAVANNAH reactor is safe against any credible accident.
+
+STABILIZING BRACKET PORT AND STARBOARD
+POLYETHYLENE
+“C” DECK
+STEEL & REDWOOD COLLISION MAT
+WOOD PAD
+“D” DECK
+CONCRETE
+WATERTIGHT BULKHEAD
+REACTOR COMPARTMENT
+STIFFENING RINGS
+LEAD
+CONTAINMENT VESSEL
+COMPARTMENT BULKHEAD
+CONCRETE
+INNER BOTTOM
+FOUNDATIONS
+FORWARD
+16
+Portable monitoring equipment, samplers, and other health physics survey equipment are provided for access, survey, and maintenance monitoring.
+
+REACTOR CONTROL AND SAFETY SYSTEMS
+The design of the control system is such that a malfunction which leads to an abnormal withdrawal rate of the rods will not result in a dangerous condition. Studies indicate that the minimum reactor period resulting from maximum withdrawal of the rods is not less than 30 seconds. The control system is designed to maintain the net reactivity insertion always less than the delayed neutron fraction.
+
+The entire reactor system is protected by the safety system. This system causes the reactor to terminate power production if a dangerous operating condition exists. The safety system also contains interlocks which prevent actions which would otherwise jeopardize the reactor system.
+
+The control and safety systems are capable of protecting the reactor system from damage due to any credible accident except a major leak in the primary loop.
+
+The reactor will “scram” (shut down) automatically from any of seven causes: (1) shorter than a safe reactor period, (2) excessive power, (3) excessive rise or fall in reactor pressure, (4) excessive reactor outlet pressure, (5) loss of flow, (6) loss of power to safety circuits, and (7) loss of power to control rod drives.
+
+INSTRUMENTS DOUBLE CHECKED
+The nuclear instrumentation system provides maximum reliability and safety, yet minimizes erroneous readings or signals from the monitoring channels. This is done by using two or more measuring channels in each operating range, and then interlocking the circuits so that at least two of them give the same signal 17of abnormal operating conditions before initiating a reactor “scram.”
+
+Increased reliability is obtained by using “solid state” instruments or magnetic amplifier units rather than electron tubes and relays.
+
+REACTOR SAFETY SYSTEM
+This system constantly monitors signals from the nuclear and non-nuclear instrumentation, and when necessary takes corrective action. Corrective action will be either in the form of “fast insertion” of the control rods, or in the form of reactor “scram.” Fast insertion takes place at a rate of 15 inches per minute, while a scram is achieved in 1.6 seconds.
+
+Fast insertion consists of moving all control rods to the full down position at the fastest rate possible through the electromechanical drives. For reactor “scram,” all rods are driven to full down position under the force of a net hydraulic pressure of 1,250 psi.
+
+SHORTER THAN A SAFE PERIOD
+The reactor period is a measure of the rate of reactor power increase; the shorter the period the faster the rise. Ten neutron-measuring channels, covering the full range from source level to 150 percent of maximum power, measure neutron intensity (flux level) and its rate of change. These data are continuously transmitted to the reactor operator and the automatic control and safety system. Too fast a rate of change, or shorter than a safe period, will automatically “scram” the reactor.
+
+EXCESSIVE POWER
+The amount of power produced is a function of the neutron flux and its resultant heat generation in the primary loop. The temperature selected to produce automatic “scram” is 540° F. This temperature “scram” circuit provides an independent backup to the neutron flux “scram.”
+
+EXCESSIVE RISE OR FALL IN PRESSURE
+Too low a pressure could result in boiling of the primary coolant, while too high a pressure could result 18in poor heat transfer as well as placing unnecessary stresses on the reactor’s fuel element core structure. There are a number of causes for either condition, all of which would relay a “scram” signal to the operator and to the automatic safety system.
+
+EXCESSIVE OUTLET PRESSURE
+In addition to protection against rapid rate of change in pressure, a scram circuit is provided to prevent any steady excessive outlet pressure that could result in damage to the core and related equipment.
+
+LOSS OF FLOW
+This condition would result from a mechanical failure in the primary loop pumps, piping, etc., or by accidentally stopping the pumps when the reactor is at power, or by loss of power to the pumps. When a single pump fails to operate for any reason, an alarm is sounded to warn the operator. If all four pumps fail to operate for any reason, a signal is sent to the reactor safety system to “scram” the reactor.
+
+LOSS OF POWER TO SAFETY CIRCUITS
+The hydraulic drives that operate the “scram” mechanism require reserve pressure to keep them in the “ready” position for “scram” condition and are an integral part of the safety circuitry. A power failure in the safety circuits would automatically put the hydraulic drives into operation to “scram” the reactor.
+
+LOSS OF POWER TO CONTROL ROD DRIVES
+Each of the 21 control rods has its own drive mounted vertically on the upper reactor head. Of these, 9 are servo controlled and 12 are of the nonservo type. The 9 servo rods have variable speed drives and operate in two groups in a synchronous manner, according to demand signals from the reactor system. The 12-rod group can be operated manually or in groups according to predetermined conditions. All of these operate at a speed determined by their gearing.
+
+19
+The safety considerations are as follows:
+
+1. Each servo loop contains a monitor that will sound an alarm and initiate a fast insertion if the rod fails to follow its command signal.
+
+2. Another circuit monitors all nine servo monitors, and should any of the servo monitors malfunction, an alarm will sound and appropriate corrective action will be taken through the automatic safety system.
+
+3. “Scram” action starts in the safety system and is independent of operator control. Once started, a “scram” action cannot be stopped.
+
+4. For conditions that do not warrant “scram” action, a fast insertion serves to reduce power and permit the operator to correct the condition without a complete shutdown. A manual fast insertion can be made by the operator.
+
+The electrical circuits controlling the reactor control rods are monitored, and an electrical failure in one or more circuits will result in a fast insertion or “scram” action. Should electrical power to the control rod drives fail completely, the hydraulic drives will be actuated.
+
+WASTE STORAGE AND HANDLING
+This system drains and collects, until safe for removal, all drainage from the reactor system that might be radioactive. Drainage may result from a leak, or be part of the normal drainage accumulation during initial fill and testing, normal startup, operation and shutdown, and decontamination.
+
+The drainage and storage system consists of two pumps, valves, piping, containment drain tank, and four waste storage tanks. The total capacity of the tanks is 1,350 cubic feet. This is approximately 80 percent more than the maximum operational leakage and drainage for a 100-day period. Provisions are made to take samples from any of the five tanks at any time.
+
+After sampling indicates sufficiently low level of activity, the fluid will be pumped to special dock facilities for transfer to inland waste disposal sites. No waste will be discharged at sea under present operating plans.
+
+20
+A special 129-foot vessel, the NSV ATOMIC SERVANT, will service the Savannah’s reactor and handle the radioactive wastes.
+
+The majority of the potentially radioactive gases vent into a central manifold. Here they are monitored, diluted by fan-driven air and discharged up the radio mast after passing through a series of filters. During normal operation, the manifold is vented continuously. However, if the radiation monitor indicates activity levels too high for satisfactory dilution, the gases can be diverted into the containment shell.
+
+GAS FILTERED, MONITORED
+The region between the containment vessel and the secondary shielding is ventilated with a 4,000 cfm fan which discharges about half way up the radio mast. This gas is not expected to be radioactive but as an added precaution it is monitored to determine if radioactivity is present.
+
+All gases released through the radio mast are filtered to remove particulate matter.
+
+The containment shell air is purged with fresh air periodically at sea and prior to entry by the ship’s engineering crew. During normal operation the only radioactive gas in the shell is argon-41, at a concentration less than the maximum permissible level for continuous occupational exposure. The only potential sources of activity in the containment air above tolerance levels would be fission products and these are not present during normal operation. However, as previously described, prior to purging, air samples will be analyzed to ascertain the activity levels.
+
+HEALTH PHYSICS MONITORING SYSTEM
+This system provides radiation protection to crew and passengers through constant monitoring for any abnormalities in radiation levels that might occur. This is accomplished through a system of 12 radiation detector units in the following locations: A-deck, outside doctor’s office; B-deck, aft passageway; B-deck, port passageway; C-deck, port passageway; C-deck, aft passageway; D-deck, starboard passageway; 21D-deck, both fore and aft bulkheads and at tanktop level, the port, starboard, fore and aft passageways.
+
+These 12 monitor units feed their readings into 2 channels, with 6 monitors on each channel according to a predetermined sequence. A manually operated detector permits switching to any one monitor to allow observation and study of that station for as long as desired. By means of a recorder on each channel, a permanent record of the 12 monitoring stations can be obtained.
+
+The detectors are calibrated and maintained periodically by operating personnel using a standardized cobalt-60 source.
+
+Ionization chambers located at the points of entry into the containment vessel will determine when it is safe to enter the vessel. In addition, anyone entering the vessel will carry a portable monitor to determine the dose rate at the point he will be working.
+
+In addition to the installed detectors, there is a full complement of portable equipment to make any specific investigations required. The equipment is used to check decontamination results and to monitor contaminated spaces during maintenance. Health physics personnel, equipped with portable equipment, accompany all groups working any area that might contain radioactivity.
+
+The health physics laboratory aboard the ship is outfitted for all tests required during the operation of the reactor plant.
+
+AUXILIARY SYSTEMS
+Sampling System. This system provides a means for removing liquid samples from the primary loop to determine the effectiveness of the purification system. Samples will be taken from both the inlet and outlet flow of the primary demineralizers.
+
+Intermediate Cooling System. The primary function is to provide clean cooling water to the various reactor system components. A secondary function is to maintain water in the annular primary shield tank.
+
+The system consists of two separate flow circuits: a sea water circuit and a fresh water circuit. Each of these circuits contains two pumps and two coolers, plus other necessary components. The pumps and coolers 22are arranged in parallel, permitting either pump to supply water to either cooler.
+
+In the sea water circuit, inlet temperature is 85° F and outlet temperature is 106° F. The fresh water enters its coolers at 143° F and leaves at 95° F.
+
+Components outside and inside of the containment vessel are cooled by one or the other of these intermediate cooling circuits.
+
+EXTRA EMERGENCY POWER
+Two auxiliary 750-kw diesel generator sets are on standby to provide the following: (1) Power to the main bus for operating those loads needed to supply cooling for decay-heat removal after a scram or shutdown, (2) emergency “take-home” power should the nuclear power plant become inoperative, (3) power for reactor startup, and (4) spare generating capacity for normal operation should a turbine generator become inoperative.
+
+In the event of a reactor “scram,” these generators will automatically start and synchronize on the main bus bar to supply and distribute power to the components used for reactor cooling.
+
+A 300-kw emergency diesel generator is also available to supply power to the 450-volt emergency switchboard. This source will operate in case both the main turbine generators and auxiliary diesel generators do not. Loads connected to the emergency switchboard include lighting, low speed windings of the primary coolant pumps, and the emergency cooling system.
+
+A battery protected source will also provide power to those loads that require an especially dependable power source with no interruption due to loss or switching of auxiliary power.
+
+TAKE-HOME POWER
+As mentioned, in the electrical system there are two 750-kw diesel generator sets installed in the engine room. If any emergency “take-home” power is required, either diesel generator can be used to operate a 750-hp wound rotor motor, which is connected to the ship’s propeller, through the reduction gears.
+
+Each diesel generator is sized to furnish adequate 23power for reactor decay heat removal, lighting, and necessary ship service.
+
+N.S. SAVANNAH MANNED FOR SAFETY
+To assure that the first nuclear-propelled merchant ship will be completely safe, it is manned by well-trained, competent personnel whose duty and responsibility it is to operate the ship safely and efficiently.
+
+Every mechanical and electrical safety device of modern navigation is at the disposal of the SAVANNAH’s crew to insure the safety and integrity of the ship.
+
+The men who will handle the SAVANNAH ashore and afloat will have had the advantage of the specialized and extensive training program conducted by the Atomic Energy Commission, the Maritime Administration, and the private contractors who built the N.S. SAVANNAH and her reactor.
+
+The ship’s master and officers are men of long experience on the sea whose backgrounds assure sound and stable assessment and judgment under all possible conditions.
+
+All of the factors herein discussed make it possible for the United States Government to say of the N.S. SAVANNAH, as she ushers in the atomic age on the world’s essential trade routes, that this unique and wonderful vessel is unquestionably one of the world’s safest ships.
+
+THE NUCLEAR SHIP SAVANNAH IS DESIGNED AND BUILT TO THESE SAFETY REQUIREMENTS
+APPLICABLE CODES OF:
+
+1. U.S. Coast Guard
+
+2. American Bureau of Shipping
+
+3. Maritime Administration
+
+4. U.S. Public Health Service
+
+5. American Institute of Electrical Engineers Marine Code
+
+6. U.S. Atomic Energy Commission
+
+SAFETY REVIEW BY:
+
+1. AEC Advisory Committee on Reactor Safeguards
+
+24
+DESIGN REVIEW BY:
+
+1. U.S. Coast Guard
+
+2. Maritime Administration
+
+3. AEC
+
+(A) Oak Ridge National Laboratory
+
+(B) Electric Boat Company
+
+4. American Bureau of Shipping
+
+U.S. GOVERNMENT PRINTING OFFICE: 1960 O—562017
+
+25
+
+The N.S. SAVANNAH’s construction meets ultimate standards of health and environmental safety.
+
+PASSENGER DINING ROOM
+CREW QUARTERS
+MAIN LOUNGE
+PASSENGER STATEROOMS
+REACTOR HATCH
+REACTOR AUX. HATCH
+CREW QUARTERS
+CARGO HOLD
+MACHINERY CONTROL CENTER
+ENGINE ROOM
+SHIP’S PROVISIONS
+STABILIZER SPACE
+CARGO HOLD
+REACTOR CONTAINMENT VESSEL
+26
+
+The N.S. SAVANNAH—world’s first atomic merchant ship—pride of the American Merchant Marine—model of maritime safety.
+
+Transcriber’s Notes

@@ -4,7 +4,7 @@ OPERATIONAL OVERVIEW
 
 
 
-APPROVED FOR VIEWING BY PERSONNEL WITH LL02 [RESTRICT] CLEARANCE OR HIGHER
+APPROVED FOR VIEWING BY PERSONNEL WITH LL-02 [RESTRICT] CLEARANCE OR HIGHER
         
 
 
@@ -44,25 +44,25 @@ Despite this, just having a given clearance level does not automatically grant a
 
 
 Security Clearance Levels
-ACCESS [LL00] - The basic security clearance granted. Extremely limited access, required to enter a site. Granted to visitors & non-essential staff.
-VEIL [LL01] - The lowest level of actual security clearance. Granted to entry-level staff & temporary personnel assigned from the parent company.
-RESTRICT [LL02] - Granted to most junior researchers & internal security, this level provides access to a number of older or less sensitive operations.
-AUTHORIZE [LL03] - The security clearance granted to a majority of staff within Seraphim Industries. Provides sufficient access to view current operations. 
-GATEWAY [LL04] - A high level security clearance, granted primarily to site administrators and senior personnel.
-ASCEND [LL05] - The highest level of clearance in practice. Restricted to top-level archivists & administration staff.
-ANGEL [LLOM] - Functionally similar to LL05, however restricted to the Archangel Council, Ethical Practices Assembly and the Recordkeeping & Infosec Division, and personnel directly assigned to them. Only granted with approval from RIsD’s three administrators.
+ACCESS [LL-00] - The basic security clearance granted. Extremely limited access, required to enter a site. Granted to visitors & non-essential staff.
+VEIL [LL-01] - The lowest level of actual security clearance. Granted to entry-level staff & temporary personnel assigned from the parent company.
+RESTRICT [LL-02] - Granted to most junior researchers & internal security, this level provides access to a number of older or less sensitive operations.
+AUTHORIZE [LL-03] - The security clearance granted to a majority of staff within Seraphim Industries. Provides sufficient access to view current operations. 
+GATEWAY [LL-04] - A high level security clearance, granted primarily to site administrators and senior personnel.
+ASCEND [LL-05] - The highest level of clearance in practice. Restricted to top-level archivists & administration staff.
+ANGEL [LL-OM] - Functionally similar to LL05, however restricted to the Archangel Council, Ethical Practices Assembly and the Recordkeeping & Infosec Division, and personnel directly assigned to them. Only granted with approval from RIsD’s three administrators.
 
 
 
 
 Personnel Classification Levels
-AUXILIARY [PCD] - Low-priority personnel, those not essential to operations or continuity. Zero operational risk if terminated.
-FUNCTIONAL [PCC] - Majority of personnel. They are non-essential for continuity, however operations will be slowed without them.
-CRITICAL [PCB] - High-priority personnel: Individual sites cannot operate without them, they pose a high risk to operations & continuity if unavailable.
-CONTINUUM [PCA] - The highest priority personnel: Those who are required for operations or continuity within Seraphim Industries. They are untouchable.
+AUXILIARY [PC-D] - Low-priority personnel, those not essential to operations or continuity. Zero operational risk if terminated.
+FUNCTIONAL [PC-C] - Majority of personnel. They are non-essential for continuity, however operations will be slowed without them.
+CRITICAL [PC-B] - High-priority personnel: Individual sites cannot operate without them, they pose a high risk to operations & continuity if unavailable.
+CONTINUUM [PC-A] - The highest priority personnel: Those who are required for operations or continuity within Seraphim Industries. They are untouchable.
 
 
-PARANORMAL [PCXS] - A unique classification for personnel assigned to the Psionics Division. You do not need to know of this classification if not assigned it.
+PARANORMAL [PC-XS] - A unique classification for personnel assigned to the Psionics Division. You do not need to know of this classification if not assigned it.
 
 
 

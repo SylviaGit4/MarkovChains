@@ -15,10 +15,11 @@ def tokenise_file():
         for w in text
         if w.strip(string.punctuation)
     ]
-
     return words
 
 words = tokenise_file()
+
+## BELOW IS THE SECTION RELATED TO THE FIRST ORDER MARKOV CHAIN ##
 
 def create_transition_matrix(words):
     transitions = {}
@@ -41,7 +42,6 @@ transition_matrix = create_transition_matrix(words)
 ## Testing for the transition matrix
 # for word, followers in transition_matrix.items():
 #    print(f"'{word} -> {followers}")
-
 # print(len(transition_matrix), "unique keys")
 
 def generate_markov_chain(transition_matrix, num_words):

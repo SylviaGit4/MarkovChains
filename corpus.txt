@@ -1,0 +1,135 @@
+﻿SERAPHIM INDUSTRIES
+OPERATIONAL OVERVIEW
+
+
+
+
+APPROVED FOR VIEWING BY PERSONNEL WITH LL02 [RESTRICT] CLEARANCE OR HIGHER
+        
+
+
+INTRODUCTION
+This document outlines the operations, organisation & structure of Seraphim Industries, and as such should not be viewed by or provided to those without the correct security clearance. Doing as such will result in immediate termination of all parties, without hearing from the Ethical Practices Assembly or Personnel Resources Department.
+
+
+
+
+The Seraphim Industries Corporation, often known as Seraphim Industries or just Seraphim,
+is a large arms development firm under the Borealis Services AG[1].
+Seraphim Industries primarily researches, develops and manufactures experimental weapons & technologies for in-house use and for use within the other companies under Borealis Services AG. Alongside R&D, Seraphim Industries also acts as a high-level security force for itself & the components of its parent company.
+
+
+
+
+Seraphim Industries was initially formed in 1962 during the merger forming Borealis
+Services AG, where the 'Tailiekki Advanced Development Program' (aka 'Fox Works') and Borealis XI Contracting Co's 'XII Brigade', which respectively acted as the secretive R&D for Taileikki's black projects, and the clandestine paramilitary 'ghost unit' for Borealis were dissolved & transferred from their parent companies, to be formed into Seraphim Industries as it is known today.
+
+
+
+
+[1] Borealis Services AG is the parent corporation of Seraphim Industries, formed from the merger of Finnish aerospace company Tailiekki Oy and Swiss-American PMC Borealis XI Contracting Co, occurring in 1962. Both companies still exist, though operate independently as divisions of Borealis Services AG.
+
+
+
+
+
+
+
+
+        ORGANISATIONAL LEVELS
+Resulting from the sensitivity of many aspects of operations within Seraphim Industries, there is a clear hierarchy of Security Clearances and Personnel Classifications within the corporation. These levels of clearances are granted based on the proximity to & sensitivity of the information or tasks they may be assigned to. 
+Despite this, just having a given clearance level does not automatically grant access to all information at that level: Personnel are usually only granted access to such information on a “need-to-know” basis.
+
+
+
+
+Security Clearance Levels
+ACCESS [LL00] - The basic security clearance granted. Extremely limited access, required to enter a site. Granted to visitors & non-essential staff.
+VEIL [LL01] - The lowest level of actual security clearance. Granted to entry-level staff & temporary personnel assigned from the parent company.
+RESTRICT [LL02] - Granted to most junior researchers & internal security, this level provides access to a number of older or less sensitive operations.
+AUTHORIZE [LL03] - The security clearance granted to a majority of staff within Seraphim Industries. Provides sufficient access to view current operations. 
+GATEWAY [LL04] - A high level security clearance, granted primarily to site administrators and senior personnel.
+ASCEND [LL05] - The highest level of clearance in practice. Restricted to top-level archivists & administration staff.
+ANGEL [LLOM] - Functionally similar to LL05, however restricted to the Archangel Council, Ethical Practices Assembly and the Recordkeeping & Infosec Division, and personnel directly assigned to them. Only granted with approval from RIsD’s three administrators.
+
+
+
+
+Personnel Classification Levels
+AUXILIARY [PCD] - Low-priority personnel, those not essential to operations or continuity. Zero operational risk if terminated.
+FUNCTIONAL [PCC] - Majority of personnel. They are non-essential for continuity, however operations will be slowed without them.
+CRITICAL [PCB] - High-priority personnel: Individual sites cannot operate without them, they pose a high risk to operations & continuity if unavailable.
+CONTINUUM [PCA] - The highest priority personnel: Those who are required for operations or continuity within Seraphim Industries. They are untouchable.
+
+
+PARANORMAL [PCXS] - A unique classification for personnel assigned to the Psionics Division. You do not need to know of this classification if not assigned it.
+
+
+
+
+
+
+
+
+        OPERATIONAL STRUCTURE OVERVIEW
+Due to the inherent diversity of the corporation, Seraphim Industries is divided into a number of departments based on the tasks required. Some departments and their purposes may be redacted for operational security.
+
+
+
+
+Administration
+Archangel Council [ARC] - The secretive council of the company's founders, making all high-level decisions. Not much is known about these enigmatic seven.
+Ethical Practices Assembly [EPA] - A committee outside of the command of the Archangel Council. Outlines rules & regulations for ethical & moral practices.
+Overseer Council [OC] - A council made up of the high-level administration of each individual site, working to coordinate between them.
+Personnel Resources Department [PRD] - The ‘HR’ of the company, assigning personnel to departments & handling internal disputes.
+Internal Communications Department [ICD] - Handles the communication between departments & sites, often working directly with the Recordkeeping & Infosec Division.
+Recordkeeping & Infosec Division [RIsD] - The archivists & bookburners. All information goes through them to be recorded, redacted or destroyed.
+________________
+
+
+
+
+Operational
+Security Department [SD] - The internal security, handling the protection of sites.
+Cyber Operations [CO] - Handling tasks surrounding technology, working with ICD and RIsD.
+Unique Modular Teams [UMT] - A collection of tactical teams, each with unique missions.
+Aerospace R&D [AeRD] - The R&D department regarding aerospace research.
+Electromechanics R&D [EmRD] - The R&D department regarding electromechanics research.
+Weapons R&D [WRD] - The R&D department regarding weapons research.
+Logistics Division [LD] - Responsible for the transport of all resources. Contains their own separate security team.
+Department of Manufacturing [DM] - Handles the manufacturing of all products.
+Information & Intelligence Division [IID] - Dedicated to intelligence & espionage.
+Psionics Division [PD] - The Psionics Division is dedicated to the handling and research related to the paranormal, anomalous and supernatural. 
+________________
+
+
+
+
+Auxillary
+Emergency Incident Response Department [EIRD] - Emergency response teams ranging from EMTs to firefighters to HAZMAT teams, who handle emergencies within sites.
+Medical Department [MD] - Teams of highly trained medical workers responsible for the treatment of personnel. Oversees site medical facilities.
+Department of External Affairs [DEA] - Responsible for external communication, legal matters, the hiring of personnel and interactions with civilians .
+Engineering & Maintenance Department [EMD] - Responsible for the upkeep & construction of sites.
+Other than these overarching departments, there are of course smaller and more specialized teams to fulfill specific roles and operational areas. Most of these smaller departments & teams are detailed elsewhere in the OPERATIONS STRUCTURE document, however more notable ones are listed briefly below.
+
+
+
+
+Unique Modular Teams
+Seraphim Industries dedicated tactical teams, divided by purpose though often exchanging personnel or creating temporarily merged ‘task forces’ based on operational requirements.
+Below is a small number of notable UMT’s, however it is not a comprehensive list.
+
+
+
+
+AKE-01 - The personal elite team under the Archangel Council. They serve as the right hand of the council, executing their orders without question. 
+AKE-02 - A dedicated team taking orders from the Overseer Council. Primarily acts as a personal protection detail for the high-level administration.
+ZETA-01 - A lawful, elite team on-par with AKE-01, answering only to the Ethical Practices Assembly.
+RISTO-01 - The Recordkeeping & Infosec Division’s secretive tactical team. Purely dedicated to recovering, redacting and, most importantly, removing information.
+GEIR-02 - A highly specialized response team responding to situations of extreme or anomalous threats. They utilize experimental exoskeletons and mounted weapon stabilizers in conjunction with medium machine guns and high-caliber ‘battle rifles’ often chambered in calibers such as 7.62x51mm, .338 Lapua Magnum and 12.7x55mm.
+GEIR-03 - Filling a unique role as a group of deep-cover cells embedded within notable groups of interest (Such as the EDB & the AASA) and important organisations to feed information back, primarily to the Information & Intelligence Division.
+BRUNHILDE-04 - Trained as paramedics and field-surgeons, the operatives are often distributed to other UMTs to act as TEMS (Tactical Emergency Medical Support) within their ranks. Lightly armed, equipped primarily for providing medical aid during combat.
+BRUNHILDE-07 - Acting akin to military police wherever attached, Brunhilde-07 tends to work closely with the EPA & DEA to serve as an intermediary force between Seraphim Industries and the local population, alongside policing other UMTs.
+VISKI-04 - A more traditional QRF, acting as generic ‘SWAT teams’ for Seraphim Industries, responding with precision to high risk situations within sites that on-site security may not be equipped to handle.
+VISKI-05 - Following more traditional ‘military structure’, Viski-05 operates as a larger mechanized brigade, containing armored vehicles, a mortar platoon & a small squadron of utility helicopters. Spiritual descendents of Borealis’ “XII Brigade”.
+VISKI-06 - Similar to Viski-05, 06 is a multirole air wing primarily made up of fighters & attackers, and a small number of bombers & electronic warfare aircraft.

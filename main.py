@@ -61,4 +61,45 @@ def generate_markov_chain(transition_matrix, num_words):
 length_of_text = 100 # CHANGE TO CHANGE LENGTH OF OUTPUT
 
 generated_text = generate_markov_chain(transition_matrix, length_of_text)
-print(generated_text)
+#print(generated_text) # Comment out if you want to use the bigram chain.
+
+
+## BELOW IS THE SECTION RELATED TO THE SECOND ORDER MARKOV CHAIN ##
+
+def build_ngram_transition(words, order):
+    transitions = {}
+
+    for i in range(len(words) - order):
+        # state is a tuple of 'order' words
+        state = tuple(words[i : i + order])
+        next_word = words[i + order]
+
+        if state not in transitions:
+            transitions[state] = []
+        transitions[state].append(next_word)
+
+    return transitions
+
+def generate_ngram_chain(transitions, order, num_words):
+    state = random.choice(list(transitions.keys()))
+    output = list(state)
+
+    for _ in range(num_words - order):
+        if state not in transitions:
+            state = random.choice(list(transitions.keys()))
+            output.extend(list(state))
+        else:
+            next_w = random.choice(transitions[state])
+            output.append(next_w)
+            # slide window forward
+            state = tuple(output[-order:])
+        
+    return " ".join(output)
+
+    
+order = 2
+num_words = 100
+transitions = build_ngram_transition(words, order)
+
+generated_ngram = generate_ngram_chain(transitions, order, num_words)
+print(generated_ngram) # Comment out if you want to use the first order chain.

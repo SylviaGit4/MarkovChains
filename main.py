@@ -97,8 +97,8 @@ def generate_ngram_chain(transitions, order, num_words):
     return " ".join(output)
 
     
-order = 2
-num_words = 100
+order = 2 # Modify this number for higher or lower orders (see explanation of markov chain in README to understand). 
+num_words = 100 # Modify this number to change the amount of words generated in the text
 transitions = build_ngram_transition(words, order)
 
 generated_ngram = generate_ngram_chain(transitions, order, num_words)
